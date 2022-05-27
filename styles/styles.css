@@ -196,3 +196,7 @@ courses styles
         flex-direction: column;
     }
 }
+
+marquee {
+    color: hsl(328, 100%, 54%);
+}
